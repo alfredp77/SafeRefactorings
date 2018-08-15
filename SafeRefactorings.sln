@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeRefactorings", "SafeRefactorings\SafeRefactorings.csproj", "{0D1700E9-424D-40F6-9E03-3AAB9130082B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeRefactorings.Tests", "SafeRefactorings.Tests\SafeRefactorings.Tests.csproj", "{15939F6C-B8BD-44D5-8482-873235B86A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1700E9-424D-40F6-9E03-3AAB9130082B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1700E9-424D-40F6-9E03-3AAB9130082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1700E9-424D-40F6-9E03-3AAB9130082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1700E9-424D-40F6-9E03-3AAB9130082B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15939F6C-B8BD-44D5-8482-873235B86A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15939F6C-B8BD-44D5-8482-873235B86A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15939F6C-B8BD-44D5-8482-873235B86A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15939F6C-B8BD-44D5-8482-873235B86A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345BD15F-DE4D-4FB6-AA69-6E9EA3516465}
+	EndGlobalSection
+EndGlobal

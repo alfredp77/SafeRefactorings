@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/NUnit.3.10.1
+/.vs/SafeRefactorings/v15
+/SafeRefactorings/.vs/SafeRefactorings/v15
+/SafeRefactorings/obj/Debug
+/SafeRefactorings.Tests/obj/Debug
